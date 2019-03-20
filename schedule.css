@@ -1,0 +1,36 @@
+/*
+* Ruth Wilhelm
+* 3/25/19
+* Semester 2 Schedule 
+*/ 
+
+/* The universial selector */
+
+* { 
+} 
+
+/* Body attributes here */
+
+body 
+
+/* This is the background color of my webpage. */ 
+
+{ background-color: aquamarine }
+
+table, td, th 
+
+/* These are the general style setting for the table. */ 
+
+{ border: 3px solid navy; }
+    
+thead 
+
+/* This is the background color for the head section of the table, where I say the title of the table and list the cycles. */ 
+
+{ background-color: lightgray; }
+
+tfoot 
+
+/* This is the background color of the foot section of the table, where I say my afterschool activities. */ 
+
+{ background-color: #FFFF99; }
